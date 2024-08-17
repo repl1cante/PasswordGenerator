@@ -16,8 +16,10 @@ Este projeto é um gerador de senhas personalizável, desenvolvido para ajudar o
    ```bash
    git clone https://github.com/repl1cante/PasswordGenerator.git
 2. Navegue até o diretório do projeto:
-   ```cd PasswordGenerator
-3.Abra o arquivo index.html no seu navegador.
+   ```clone```
+   cd PasswordGenerator
+
+3. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades Principais
 - Gerar senhas com comprimento personalizado.
@@ -28,11 +30,14 @@ Este projeto é um gerador de senhas personalizável, desenvolvido para ajudar o
 ## Como Contribuir
 1. Faça um fork do projeto.
 2. Crie uma nova branch
-    ```git checkout -b minha-nova-funcionalidade
+    ```branch```
+    git checkout -b minha-nova-funcionalidade
 3. Faça suas alterações e commit
-    ```git commit -m 'Adiciona nova funcionalidade'
+    ```commit```
+    git commit -m 'Adiciona nova funcionalidade'
 4. Envie para o branch original
-    ```git push origin minha-nova-funcionalidade
+    ```push```
+    git push origin minha-nova-funcionalidade
 5. Crie um pull request
 
 ## Licença
