@@ -12,13 +12,8 @@ Este projeto é um gerador de senhas personalizável, desenvolvido para ajudar o
 
 ## Como Instalar e Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/repl1cante/PasswordGenerator.git
-2. Navegue até o diretório do projeto:
-   ```clone```
-   cd PasswordGenerator
-
+1. Clone o repositório
+2. Navegue até o diretório do projeto
 3. Abra o arquivo index.html no seu navegador.
 
 ## Funcionalidades Principais
